@@ -43,3 +43,4 @@ coverage/
 
 # Optional: Ignore test output
 test-output/
+server/testConnection.js
